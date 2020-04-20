@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "b5f8f0189363abf27ebf",
-    "url": "/contacts-app/static/js/app.edbbde8f.chunk.js"
+    "revision": "0255bc5ce3908dfac9ee",
+    "url": "/contacts-app/static/js/app.b777e2b7.chunk.js"
   },
   {
     "revision": "3e8fe197bc968ab13b30",
@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/contacts-app/favicon.ico"
   },
   {
-    "revision": "c37529f009e24ea571fdc4ac9a3b8e1c",
+    "revision": "3e1bfe5e5d9069e8d3dcd6c760367e31",
     "url": "/contacts-app/index.html"
   },
   {

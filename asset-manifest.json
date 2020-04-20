@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/contacts-app/static/js/app.edbbde8f.chunk.js",
-    "app.js.map": "/contacts-app/static/js/app.edbbde8f.chunk.js.map",
+    "app.js": "/contacts-app/static/js/app.b777e2b7.chunk.js",
+    "app.js.map": "/contacts-app/static/js/app.b777e2b7.chunk.js.map",
     "runtime~app.js": "/contacts-app/static/js/runtime~app.a4b11722.js",
     "runtime~app.js.map": "/contacts-app/static/js/runtime~app.a4b11722.js.map",
     "static/js/2.e9202054.chunk.js": "/contacts-app/static/js/2.e9202054.chunk.js",
@@ -32,6 +32,6 @@
   "entrypoints": [
     "static/js/runtime~app.a4b11722.js",
     "static/js/2.e9202054.chunk.js",
-    "static/js/app.edbbde8f.chunk.js"
+    "static/js/app.b777e2b7.chunk.js"
   ]
 }
