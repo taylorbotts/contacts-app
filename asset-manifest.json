@@ -1,0 +1,37 @@
+{
+  "files": {
+    "app.js": "/contacts-app/static/js/app.edbbde8f.chunk.js",
+    "app.js.map": "/contacts-app/static/js/app.edbbde8f.chunk.js.map",
+    "runtime~app.js": "/contacts-app/static/js/runtime~app.a4b11722.js",
+    "runtime~app.js.map": "/contacts-app/static/js/runtime~app.a4b11722.js.map",
+    "static/js/2.e9202054.chunk.js": "/contacts-app/static/js/2.e9202054.chunk.js",
+    "static/js/2.e9202054.chunk.js.map": "/contacts-app/static/js/2.e9202054.chunk.js.map",
+    "fonts/AntDesign.ttf": "/contacts-app/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/contacts-app/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/contacts-app/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/contacts-app/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/contacts-app/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/contacts-app/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Foundation.ttf": "/contacts-app/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/contacts-app/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/contacts-app/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/contacts-app/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/contacts-app/./fonts/SimpleLineIcons.ttf",
+    "fonts/SpaceMono-Regular.ttf": "/contacts-app/./fonts/SpaceMono-Regular.ttf",
+    "favicon-16.png": "/contacts-app/favicon-16.png",
+    "favicon-32.png": "/contacts-app/favicon-32.png",
+    "favicon.ico": "/contacts-app/favicon.ico",
+    "index.html": "/contacts-app/index.html",
+    "manifest.json": "/contacts-app/manifest.json",
+    "serve.json": "/contacts-app/serve.json",
+    "static/media/bell.png": "/contacts-app/static/media/bell.a7b9dc9d.png",
+    "static/media/heart.png": "/contacts-app/static/media/heart.2327736b.png",
+    "static/media/rocket.png": "/contacts-app/static/media/rocket.51671417.png",
+    "static/media/star.png": "/contacts-app/static/media/star.004c2bbb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.a4b11722.js",
+    "static/js/2.e9202054.chunk.js",
+    "static/js/app.edbbde8f.chunk.js"
+  ]
+}
